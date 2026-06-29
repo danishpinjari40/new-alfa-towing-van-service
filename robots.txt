@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newalfattowing.netlify.app/sitemap.xml
+
+# New Alfa Towing Van Service — Jalgaon, Maharashtra, India
+# 24/7 Towing Service | Call: 7399997789
